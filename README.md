@@ -31,5 +31,5 @@
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=QuyPhuoc&" alt="QuyPhuoc" />
 </div>
 
-
+![](https://raw.githubusercontent.com/QuyPhuoc/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuyPhuoc)](https://github.com/anuraghazra/github-readme-stats)
