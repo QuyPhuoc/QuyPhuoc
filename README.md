@@ -30,4 +30,3 @@
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuyPhuoc&show_icons=true&locale=en&layout=compact" alt="QuyPhuoc" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=QuyPhuoc&" alt="QuyPhuoc" />
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuyPhuoc)](https://github.com/anuraghazra/github-readme-stats)
