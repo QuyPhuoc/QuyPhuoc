@@ -29,4 +29,3 @@
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=QuyPhuoc&" alt="QuyPhuoc" />
 </div>
 
-![Snake animation](https://github.com/QuyPhuoc/QuyPhuoc/blob/output/github-contribution-grid-snake.svg)
