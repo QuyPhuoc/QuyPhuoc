@@ -29,3 +29,13 @@
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=QuyPhuoc&" alt="QuyPhuoc" />
 </div>
 
+#  Oh, It's weather Today
+
+## Today's weather
+{{ template "hourly-table" $.TodayWeather.HourlyWeathers }}
+
+## 7-Day forecast
+{{ template "daily-table" .Weathers }}
+
+
+_Last update: {{ formatTime .UpdatedAt }}
