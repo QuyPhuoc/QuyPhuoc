@@ -28,15 +28,3 @@
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuyPhuoc&show_icons=true&locale=en&layout=compact" alt="QuyPhuoc" style="background-color: dark;" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=QuyPhuoc&" alt="QuyPhuoc" />
 </div>
-
-
-#  Oh, It's weather Today
-
-## Today's weather
-{{ template "hourly-table" $.TodayWeather.HourlyWeathers }}
-
-## 7-Day forecast
-{{ template "daily-table" .Weathers }}
-
-
-_Last update: {{ formatTime .UpdatedAt }}
