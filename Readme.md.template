@@ -1,0 +1,10 @@
+# It's forecast weather template
+
+- **Daily Weather Tabel:**
+```shell
+{{ template "hourly-table" $todayWeather.HourlyWeathers }}
+```
+- **Update at:**
+```shell
+{{ formatTime .UpdatedAt }}
+```
