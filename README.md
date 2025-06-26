@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QuyPhuoc
+-   About me
 # Quy Phuoc
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ph%C6%B0%E1%BB%9Bc-undefined-0572a8299/)
