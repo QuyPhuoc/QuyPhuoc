@@ -1,0 +1,9 @@
+# My GitHub Profile
+
+## Thời tiết hôm nay
+{{ template "hourly-table" $todayWeather.HourlyWeathers }}
+
+## Dự báo 7 ngày
+{{ template "daily-table" .Weathers }}
+
+_Updated at: {{ formatTime .UpdatedAt }}_
