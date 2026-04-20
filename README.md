@@ -8,6 +8,7 @@
 
 - 💻 Java OOP
 - 🤔 https://d2l.aivivn.com/
+- 🖤 https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
 
 
 ### 🖥 Skills
@@ -19,7 +20,8 @@
 - OOP
 - MySQL
 - Python
-- Deep Learning
+- Machine Learning
+- LLM, AI Agent
 ### ⚙️ Tech Stack
 ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=plastic&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=plastic&logo=Java&color=353535) ![Bootstrap](https://img.shields.io/badge/-Deep%20Learning-05122A?style=plastic&logo=Deep-Learning&color=353535) ![Bootstrap](https://img.shields.io/badge/-Computer%20Vision-05122A?style=plastic&logo=Computer-Vision&color=353535) ![Bootstrap](https://img.shields.io/badge/-Oracle-05122A?style=plastic&logo=Oracle&color=353535)
 
